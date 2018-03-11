@@ -1,0 +1,156 @@
+.logo-footer img#Header1_headerimg {
+    max-width: 320px;
+    height: auto;
+}
+#fieldleft .widget {
+    border: none;
+    float: none;
+    margin-right: 0;
+    padding: 30px;
+    width: 250px;
+}
+
+#fieldleft .widget, #fieldright .widget {
+    text-align: left;
+}
+#fieldright span {
+    margin-left: 25px;
+}
+.post-entry span h1 {
+    text-align: center;
+}
+#fieldright .widget {
+    border: none;
+    float: none;
+    margin-right: 0;
+    padding: 30px 10px;
+    width: 250px;
+}
+#fieldright ul, #fieldleft ul  {
+    margin-bottom: 20px;
+    padding-left: 45px;
+	list-style: outside none square;
+}
+#main #fieldright .widget, #main #fieldleft .widget {
+    width: 100%;
+}
+#fieldleft {
+    float: left;
+    margin-top: 8px;
+    width: 380px;
+}
+#fieldright {
+    float: right;
+    margin-top: 8px;
+    width: 300px;
+}
+#addqty {
+    background: rgba(0, 0, 0, 0) url(&quot;http://4.bp.blogspot.com/--b8NMFXqsIU/VSLhZhnv2dI/AAAAAAAAE74/vepBPF_eR5M/s1600/plus.jpg&quot;) no-repeat scroll 0 0;
+    border: medium none;
+    height: 16px;
+    width: 16px;
+}
+.btnQty {
+    margin-left: 6px;
+}
+
+#reduceqty {
+    background: rgba(0, 0, 0, 0) url(&quot;http://3.bp.blogspot.com/-Ry-E7EH0wPw/VSLhZmEEdRI/AAAAAAAAE70/0qqCTWv6UtM/s1600/moins.jpg&quot;) no-repeat scroll 0 0;
+    border: medium none;
+    height: 16px;
+    width: 16px;
+}
+.btnQty {
+    margin-left: 6px;
+}
+#sb-site #leftContent{display:none;}
+
+.services_title{
+text-transform: uppercase;
+font-family: &#39;Patua One&#39;, sans-serif;
+font-size:20px;
+border-bottom: 1px solid #222;
+font-weight:bold;
+  }
+.services_txt{
+background-color:#f7f7f7;border-left:2px solid #222;padding:15px;
+  }
+.services_contact {
+margin-top: 15px;
+font-weight: bold;
+text-align:center;
+background: #d4d4d4;
+color: #fff;
+padding: 14px;
+letter-spacing: .5px;
+  }
+
+.concours .cc_title {
+font-weight: bold;
+text-align:center;
+    font-weight: 400;
+    color: #222;
+    clear: both;
+    font-family: &#39;Patua One&#39;, sans-serif;
+    border-bottom: 1px solid #222;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    font-size: 14px;
+    margin: 0;
+    padding: 10px 20px;
+    text-transform: uppercase;
+  }
+.concours .cc_date {
+margin-top: -10px;
+text-align:center;
+color:grey;
+font-size: 12px;
+  }
+.concours .cc_play {
+margin-top: 15px;
+font-weight: bold;
+text-align:center;
+background: #22a1c4;
+color: #fff;
+padding: 14px;
+letter-spacing: .5px;
+  }
+
+.techniques {
+background-color: #f5f5f5;
+    padding: 15px;
+    border: 1px solid grey;
+    margin: 15px;
+}
+
+.post-body table img {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
+
+.post-body a{
+    color: black;
+    font-weight: bold;
+}
+
+.listRecipe p {
+    font-weight: normal;
+}
+
+.post-body table span {
+    display: block;
+}
+
+.widget .post-body li, .widget .post-body ol {
+    list-style: initial ;
+}
+
+.widget .post-body ol li {
+    margin-bottom: 15px;
+list-style-type: decimal !important;
+}
+
+.post-body table {
+table-layout:fixed;
+}
